@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import waterdistrict from './waterdistrict.jpg'
+import {Link, NavLink} from 'react-router-dom'
 
 class App extends React.Component {
 
@@ -28,13 +29,13 @@ class App extends React.Component {
         </header>
         <div className="tabs">
           <h1>
-            About me
+            <NavLink className='link' to='/aboutme'>About me</NavLink>
         </h1>
           <h1>
-            What I bring to the table
+            <NavLink className='link' to='/skills'>What I bring to the table</NavLink>
         </h1>
           <h1>
-            Contact
+            <NavLink className='link' to='/contact'>Contact</NavLink>
         </h1>
         </div>
       </div>

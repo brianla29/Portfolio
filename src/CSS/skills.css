@@ -1,0 +1,12 @@
+.App {
+    background: #9D9898;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}

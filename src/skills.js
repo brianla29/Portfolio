@@ -1,11 +1,19 @@
 import React from 'react'
+import './CSS/skills.css';
 
 class Skills extends React.Component {
     render = () => {
         return(
-            <h1>
-                What I bring to the table
-            </h1>
+            <div className="App">
+                <div className="header">
+                    <h1>
+                        What I bring to the table
+                    </h1>
+                </div>
+                <div>
+                    
+                </div>
+            </div>
         );
     }
 }

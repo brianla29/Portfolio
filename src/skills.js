@@ -10,8 +10,13 @@ class Skills extends React.Component {
                         What I bring to the table
                     </h1>
                 </div>
-                <div>
-                    
+                <div className="containerColumn">
+                    <div className="twoColumn">
+                        <h1 id="underline">Skills</h1>
+                    </div>
+                    <div className="twoColumn">
+                        <h1 id="underline">Experience</h1>
+                    </div>
                 </div>
             </div>
         );

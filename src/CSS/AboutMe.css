@@ -1,0 +1,50 @@
+.App {
+    text-align: center;
+    background: #9D9898;
+  }
+
+.header {
+    display: flex;
+    justify-content: center;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.split {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 700px;
+}
+
+.left {
+    width: 50%;
+}
+
+.right {
+    width: 50%;
+}
+
+.aboutMeImage {
+    width: 100%;
+    height: 90%;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 100%;
+}
+
+#aboutList {
+    font-size: 30px;
+    text-align: left;
+}
+
+#listItem {
+    margin-top: 50px;
+}
+
+#underline {
+    text-decoration: underline;
+}

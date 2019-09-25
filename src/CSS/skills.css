@@ -22,7 +22,7 @@
 .containerColumn {
     display: flex;
     flex-direction: row;
-    height: 700px;
+    height: 1110px;
 }
 
 .skillsImage {
@@ -48,4 +48,27 @@
 #left {
     text-align: left;
     font-size: 20px;
+}
+
+#leftnoSize {
+    text-align: left;
+}
+
+#projects {
+    float: left;
+    margin-left: 1%;
+    font-style: italic;
+}
+
+.projectsContainer {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    background: #9D9898;
+    height: 200px;
+    flex-direction: column;
+}
+
+#projectList {
+    float: middle;
 }

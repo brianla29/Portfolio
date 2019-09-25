@@ -28,12 +28,13 @@
 }
 
 .aboutMeImage {
-    width: 100%;
+    width: 90%;
     height: 90%;
     border-color: black;
     border-width: 5px;
     border-style: solid;
-    border-radius: 100%;
+    border-radius: 10%;
+    margin-top: 5%;
 }
 
 #aboutList {

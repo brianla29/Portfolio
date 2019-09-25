@@ -33,7 +33,7 @@ class Skills extends React.Component {
                                 Computer Archictecture, Operating Systems, Introduction to Software Engineering, Probability Theory
                             </li>
                         </ul>
-                        
+                        <img class="skillsImage" src="https://i.imgur.com/3nh54tj.jpg" alt="sasePhoto"></img>
                     </div>
                     <div className="twoColumn">
                         <h1 id="title">Experience</h1>

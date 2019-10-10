@@ -1,5 +1,5 @@
-import React from 'react'
-import './CSS/AboutMe.css'
+import React from 'react';
+import './CSS/AboutMe.css';
 class AboutMe extends React.Component {
     render = () => {
         return (

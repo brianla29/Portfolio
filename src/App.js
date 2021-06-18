@@ -1,7 +1,7 @@
 import React from 'react';
 import './CSS/App.css';
 import homeBackground from './homeBackground.jpg';
-import {Link, NavLink} from 'react-router-dom';
+import { NavLink} from 'react-router-dom';
 
 class App extends React.Component {
 

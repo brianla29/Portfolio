@@ -26,10 +26,10 @@ class AboutMe extends React.Component {
                                 Attended the University of California, Santa Cruz and graduated with a Bachelor's in Computer Science
                             </li>
                             <li id="listItem">
-                                Interested in Front-End Design
+                                Interested in learning more about product management
                             </li>
                             <li id="listItem">
-                                Enjoys staying fit by powerlifting and playing tennis
+                                Enjoys staying fit by powerlifting and playing tennis/volleyball
                             </li>
                         </ul>
                     </div>

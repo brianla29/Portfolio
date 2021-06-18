@@ -39,6 +39,34 @@ class Skills extends React.Component {
                         <h1 id="title">Experience</h1>
                         <h2 id="subTitles">Professional</h2>
                         <ul>
+                        <li>
+                                <h3 id="leftnoSize">VeEx Inc</h3>
+                                <ul id="leftnoSize">
+                                    <li>
+                                        <h4>Product Management/Marketing(February 2020 - Current)</h4>
+                                    </li>
+                                    <ul>
+                                        <li>
+                                        Maintain overall Roadmap or "vision" of product through their lifecycle. Currently maintaining five live products.
+                                    </li>
+                                        <li>
+                                        Create product feature definitions and coordinate with engineering to make it happen.
+                                    </li>
+                                        <li>
+                                        Provide testing for newly completely features to ensure smooth transition into live product.
+                                    </li>
+                                    <li>
+                                        Sit in as support for technical problem solving during deployments or tackle said issues off the side
+                                    </li>
+                                    <li>
+                                        Document existing and new features for the products
+                                    </li>
+                                    <li>
+                                        Provide training to Sales/Support on use of said products
+                                    </li>
+                                    </ul>
+                                </ul>
+                            </li>
                             <li>
                                 <h3 id="leftnoSize">Santa Clara Valley Water District</h3>
                                 <ul id="leftnoSize">
@@ -75,54 +103,6 @@ class Skills extends React.Component {
                                             Maintained and resupplied equipment needed for refurbishing and shipment, ensuring no time was lost to gathering needed supplies.
                                         </li>
                                     </ul>
-                                </ul>
-                            </li>
-                            <li>
-                                <h2 id="subTitles">Projects</h2>
-                                <ul>
-                                    <li>
-                                        <h3 id="leftnoSize">SYA-Mobile</h3>
-                                        <ul id="leftnoSize">
-                                            <li>
-                                                Android and iOS application modeled after the Share Yourself Artist web application(https://www.shareyourselfartists.com) that allows for artist and
-                                                business blog interaction
-                                            </li>
-                                            <li>
-                                                Artist can submit artwork to businesses who can accept/deny the art piece
-                                            </li>
-                                            <li>
-                                                Chat system to allow discussion between two parties
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <h3 id="leftnoSize">SUBEASY</h3>
-                                        <ul id="leftnoSize">
-                                            <li>
-                                                Web platform for easy and safe connections between tenants and potential sub leasers.
-                                            </li>
-                                            <li>
-                                                UCSC email verification to make an account.
-                                            </li>
-                                            <li>
-                                                House listing page to browse and post property
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <h3 id="leftnoSize">Tipsy Trials</h3>
-                                        <ul id="leftnoSize">
-                                            <li>
-                                                Android application to test if user is sober or not
-                                            </li>
-                                            <li>
-                                                User plays a series of timed mini-games to get a score
-                                            </li>
-                                            <li>
-                                                Score is compared against average sober score and user is told if they are sober or not
-                                            </li>
-                                        </ul>
-                                    </li>
                                 </ul>
                             </li>
                         </ul>

@@ -29,7 +29,7 @@ class AboutMe extends React.Component {
                                 Interested in learning more about product management
                             </li>
                             <li id="listItem">
-                                Enjoys staying fit by powerlifting and playing tennis/volleyball
+                                Enjoys staying fit by lifting weights and playing tennis/volleyball
                             </li>
                         </ul>
                     </div>

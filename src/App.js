@@ -1,6 +1,6 @@
 import React from 'react';
 import './CSS/App.css';
-import homeBackground from './homeBackground.jpg';
+import homeBackground from './neighborhood.jpg';
 import { NavLink} from 'react-router-dom';
 
 class App extends React.Component {
@@ -10,6 +10,9 @@ class App extends React.Component {
     return (
       <div className="App">
         <div className="tabs">
+          <h1>
+            Brian La
+          </h1>
           <h1>
             <NavLink className='link' to='/aboutme'>About me</NavLink>
         </h1>
@@ -33,9 +36,6 @@ class App extends React.Component {
           backgroundPosition: 'center',
           overflow: 'auto',
         }}>
-          <h1 className='black'>
-            Brian La
-        </h1>
         </header>
       </div>
     );
